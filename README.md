@@ -6,7 +6,7 @@ This repository contains my LeetCode solutions completed as part of the Applied 
 
 - **Course:** Applied Coding Skills
 - **Platform:** LeetCode
-- **Language:** Java
+- **Programming Language:** Java
 
 ## Weekly Topics
 
@@ -16,6 +16,10 @@ This repository contains my LeetCode solutions completed as part of the Applied 
 | Week 3 | Stack |
 | Week 4 | Queue & Tree |
 | Week 5 | Binary Tree |
+
+## Objective
+
+To develop problem-solving and competitive programming skills by implementing data structures and algorithms through LeetCode problems as part of the Applied Coding Skills course.
 
 ## Repository Structure
 
