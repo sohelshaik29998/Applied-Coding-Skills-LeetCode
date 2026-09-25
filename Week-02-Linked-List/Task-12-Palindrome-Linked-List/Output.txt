@@ -1,0 +1,27 @@
+LeetCode Problem: 234 - Palindrome Linked List
+
+Status: Accepted
+Runtime: 0 ms
+
+Test Case 1
+
+Input:
+head = [1,2,2,1]
+
+Output:
+true
+
+Expected:
+true
+
+
+Test Case 2
+
+Input:
+head = [1,2]
+
+Output:
+false
+
+Expected:
+false
