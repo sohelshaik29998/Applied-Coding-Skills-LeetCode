@@ -1,0 +1,16 @@
+LeetCode Problem: 21 - Merge Two Sorted Lists
+
+Status: Accepted
+Runtime: 0 ms
+
+Test Case 1
+
+Input:
+list1 = [1,2,4]
+list2 = [1,3,4]
+
+Output:
+[1,1,2,3,4,4]
+
+Expected:
+[1,1,2,3,4,4]
