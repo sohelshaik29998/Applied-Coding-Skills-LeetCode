@@ -1,0 +1,16 @@
+LeetCode Problem: 25 - Reverse Nodes in k-Group
+
+Status: Accepted
+Runtime: 0 ms
+
+Test Case 1
+
+Input:
+head = [1,2,3,4,5]
+k = 2
+
+Output:
+[2,1,4,3,5]
+
+Expected:
+[2,1,4,3,5]
