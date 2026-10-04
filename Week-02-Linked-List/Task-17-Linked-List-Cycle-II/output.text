@@ -1,0 +1,42 @@
+LeetCode Problem: 142 - Linked List Cycle II
+
+Status: Accepted
+Runtime: 0 ms
+
+Test Case 1
+
+Input:
+head = [3,2,0,-4]
+pos = 1
+
+Output:
+tail connects to node index 1
+
+Expected:
+tail connects to node index 1
+
+
+Test Case 2
+
+Input:
+head = [1,2]
+pos = 0
+
+Output:
+tail connects to node index 0
+
+Expected:
+tail connects to node index 0
+
+
+Test Case 3
+
+Input:
+head = [1]
+pos = -1
+
+Output:
+no cycle
+
+Expected:
+no cycle
