@@ -1,0 +1,15 @@
+LeetCode Problem: 1475 - Final Prices With a Special Discount in a Shop
+
+Status: Accepted
+Runtime: 0 ms
+
+Test Case 1
+
+Input:
+prices = [8,4,6,2,3]
+
+Output:
+[4,2,4,2,3]
+
+Expected:
+[4,2,4,2,3]
