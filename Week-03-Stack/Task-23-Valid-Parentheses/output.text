@@ -1,0 +1,63 @@
+LeetCode Problem: 20 - Valid Parentheses
+
+Status: Accepted
+Runtime: 0 ms
+
+Test Case 1
+
+Input:
+s = "()"
+
+Output:
+true
+
+Expected:
+true
+
+
+Test Case 2
+
+Input:
+s = "()[]{}"
+
+Output:
+true
+
+Expected:
+true
+
+
+Test Case 3
+
+Input:
+s = "(]"
+
+Output:
+false
+
+Expected:
+false
+
+
+Test Case 4
+
+Input:
+s = "([])"
+
+Output:
+true
+
+Expected:
+true
+
+
+Test Case 5
+
+Input:
+s = "([)]"
+
+Output:
+false
+
+Expected:
+false
