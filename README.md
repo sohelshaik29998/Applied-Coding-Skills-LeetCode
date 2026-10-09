@@ -2,6 +2,11 @@
 
 This repository contains my LeetCode solutions completed as part of the Applied Coding Skills (APS) course.
 
+## Student Details
+
+- **Name:** Sohel Shaik
+- **VTU Number:** VTU29998
+
 ## Course Details
 
 - **Course:** Applied Coding Skills
@@ -12,6 +17,7 @@ This repository contains my LeetCode solutions completed as part of the Applied 
 
 | Week | Topic |
 |---|---|
+| Week 1 | Arrays and Searching |
 | Week 2 | Linked List |
 | Week 3 | Stack |
 | Week 4 | Queue & Tree |
@@ -26,7 +32,9 @@ To develop problem-solving and competitive programming skills by implementing da
 ```text
 Applied-Coding-Skills-LeetCode/
 │
+├── Week-01-Array-and-Searching/
 ├── Week-02-Linked-List/
 ├── Week-03-Stack/
 ├── Week-04-Queue-Tree/
 └── Week-05-Binary-Tree/
+```
